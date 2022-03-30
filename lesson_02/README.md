@@ -2,7 +2,13 @@
 
 > What is Mock / Mocking?
 
-![VR Soldiers](./vr-soldiers.jpg)
+![Vacuum map](./vacuum-map.jpg)
+
+<details>
+  <summary>What is this? ☝️</summary>
+  
+  ![Vacuum robot](./vacuum-robot.jpg)
+</details>
 
 - [TestDouble (defintions for various names for stubs) @martinfowler.com](https://martinfowler.com/bliki/TestDouble.html)
 - [Mocks Aren't Stubs @martinfowler.com](https://martinfowler.com/articles/mocksArentStubs.html)
@@ -24,3 +30,6 @@
 ## Home assignments
 
 - Complete all the racing car catas
+- Prepare answer to these questions:
+  - What is a difference between `unit` / `integration` / `acceptance` test?
+  - What is a `hexagonal architecture`?
